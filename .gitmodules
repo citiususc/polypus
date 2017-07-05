@@ -1,0 +1,12 @@
+[submodule "sentiment-classifier"]
+	path = sentiment-classifier
+	url = https://github.com/polypus-twitter/sentiment-classifier
+[submodule "twitter-crawler"]
+	path = twitter-crawler
+	url = https://github.com/polypus-twitter/twitter-crawler
+[submodule "web-app"]
+	path = web-app
+	url = https://github.com/polypus-twitter/web-app
+[submodule "polarity-storer"]
+	path = polarity-storer
+	url = https://github.com/polypus-twitter/polarity-storer
